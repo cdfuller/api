@@ -5,7 +5,7 @@ show_nav: false
 Welcome! This GitHub Pages site is here to answer some of the most frequently asked questions about the National
 Weather Service public data API (api.weather.gov).
 
-Our GitHub repository also serves as a place to connect with other developers and the NWS API development team.
+Our [GitHub repository](https://github.com/weather-gov/api) also serves as a place to connect with other developers and the NWS API development team.
 
 You can browse our documentation here.
 
